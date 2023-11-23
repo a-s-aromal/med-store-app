@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar {
+  font-family: Montserrat;
+}
+
+.image {
+  overflow: hidden;
+}
+
+.login {
+  margin-top: 8%;
+}
+
+.signup {
+  margin-top: 8%;
+}
+
+.med-det {
+  margin-top: 11%;
+}
+
+.add-med {
+  margin-top: 10%;
+}
+
+.edit {
+  margin-top: 8%;
+}
+
+.logout{
+  cursor: pointer;
+}
