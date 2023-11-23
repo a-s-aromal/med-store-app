@@ -20,7 +20,7 @@ function Register() {
     } else {
       error = 1;
       setpasswordError(
-        "Password must contain at least one symbol and be a minimum of 6 characters long, including one number and alphabet."
+        "Password should contain at least one symbol and be a minimum of 6 characters long, including one number and alphabet."
       );
     }
 
