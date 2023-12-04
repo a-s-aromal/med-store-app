@@ -12,9 +12,13 @@ code {
     monospace;
 }
 
+@font-face {
+  font-family: 'Montserrat SemiBold';
+  src: url('../public/fonts/Montserrat.ttf') format('truetype');
+}
+
 .navbar {
-  font-family: 'Montserrat';
-  src: url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+  font-family: 'Montserrat', sans-serif;
 }
 
 .image {
